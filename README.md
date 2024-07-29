@@ -1,6 +1,6 @@
-# Optimising Calls to Large Language Models with Uncertainty-Based Two-Tier Selection
-
-
+# Using Margin Sampling to Optimise Calls to Large Language Models
+Code for the paper 'Optimising Calls to Large Language Models with Uncertainty-Based Two-Tier Selection'.
+Accepted at COLM 2024.
 Please refer to the [original paper](https://arxiv.org/abs/2405.02134) for implementation details. 
 
 ```bibtex
