@@ -4,7 +4,7 @@
 Please refer to the [original paper](https://arxiv.org/abs/2405.02134) for implementation details. 
 
 ```bibtex
-@misc{ramírez2024optimisingcallslargelanguage,
+@misc{ramirez2024optimising,
       title={Optimising Calls to Large Language Models with Uncertainty-Based Two-Tier Selection}, 
       author={Guillem Ramírez and Alexandra Birch and Ivan Titov},
       year={2024},
